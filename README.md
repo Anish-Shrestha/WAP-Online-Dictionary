@@ -1,2 +1,2 @@
-# WAP_Project-Dictionary
-web application using java, servlet, mySql
+# WAP Online Dictionary
+web application using Jquery, bootstrap, java, servlet and mySql
